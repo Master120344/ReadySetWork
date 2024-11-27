@@ -1,0 +1,69 @@
+# Gradle files
+.gradle/
+build/
+local.properties
+
+# Android Studio files
+.idea/
+*.iml
+
+# Keystore files (important for release builds)
+*.jks
+*.keystore
+
+# Log files
+*.log
+
+# Android specific files
+.DS_Store
+.env
+app/release/
+app/debug/
+
+# Crashlytics and Firebase
+crashlytics.properties
+fabric.properties
+google-services.json
+firebase/
+
+# IntelliJ IDEA files
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Other IDE specific files
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Compiled Java class files
+*.class
+
+# Compiled native files
+*.so
+*.dll
+*.dylib
+*.exe
+
+# Generated files
+*.apk
+*.ap_
+*.dex
+
+# Generated JSON files
+*.json
+
+# Proguard files
+proguard/
+
+# Test result files
+*.out
+*.xml
+*.hprof
+
+# CI files (optional)
+ci/
+
+# Git specific files
+*.orig
