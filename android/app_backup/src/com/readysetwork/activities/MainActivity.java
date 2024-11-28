@@ -1,4 +1,4 @@
-.package com.readysetwork.activities;
+package com.readysetwork.activities;
 
 import android.content.Intent;
 import android.os.Bundle;
